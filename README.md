@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to the #1 Website for IPL 2020 Stats & teams
 
 You can use the [editor on GitHub](https://github.com/AzizPatel786/AzizPatel786.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
