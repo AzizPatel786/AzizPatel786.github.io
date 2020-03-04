@@ -46,3 +46,4 @@
 
 
 
+<embed width="640" height="480" base="https://external.kongregate-games.com/gamez/0017/5738/live/" src="https://external.kongregate-games.com/gamez/0017/5738/live/embeddable_175738.swf" type="application/x-shockwave-flash"></embed><br/>Play free games at <a href="https://www.kongregate.com/">Kongregate</a>
