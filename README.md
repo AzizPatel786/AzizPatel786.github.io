@@ -1,7 +1,7 @@
 ## Welcome to the #1 Website for IPL 2020 Stats & teams
 
 
-
+![](https://lh3.googleusercontent.com/HHuEqL9TyhRBLVeY1OthifM2Crzy7ihsDB-WNdiFzJRi_HDNzGJ4Fgws4Ry5_SOwtWGUW0jsRaVFCaFpSb15EOW1r7IfebZ1t2tOaNvT=s0)
 ![](https://www.bing.com/th?id=OIP.I4J2tbscJwV5UC5OwNxzmgHaEZ&pid=Api&rs=1)
 
 
